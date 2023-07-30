@@ -1,6 +1,6 @@
 # App Made with Active Mermaid
 
-Just to show that the code does with out of the box.
+Just to show that the code does wor out-of-the-box.
 
 You can pull down, `bundle install`, `rails db:migrate`, `rspec` to see for yourself.
 
